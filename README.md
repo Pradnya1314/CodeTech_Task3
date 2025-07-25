@@ -13,14 +13,11 @@ Python 3.x, NLTK (Natural Language Toolkit), Regex (re module)
 
 ## Setup Instructions
 
-### 1. Clone the repository:  
-git clone https://github.com/your-username/your-repo-name.git  
-cd your-repo-name 
 
-### 2. Install dependencies:  
+### 1. Install dependencies:  
 pip install nltk  
 
-### 3. Download NLTK data:  
+### 2. Download NLTK data:  
 import nltk  
 nltk.download('punkt')  
 nltk.download('wordnet') 
@@ -28,6 +25,7 @@ nltk.download('wordnet')
 ## Files Included  
 chatbot_nlp.py – Main Python script that runs the chatbot.  
 nltk_download.py – Optional helper to download required NLTK packages.
+
 Working_chatbot - A screenshot of output.
 README.md – Project documentation 
 
@@ -49,5 +47,5 @@ Chatbot: Goodbye! Have a nice day!
 Screenshot or video of chatbot interaction is attached in the submission folder.  
 
 ## Submitted 
-Name: Pradnya Pramod Mhatre
+Name: Pradnya Pramod Mhatre.
 Internship: CODTECH – Task 3  
