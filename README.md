@@ -23,10 +23,12 @@ nltk.download('punkt')
 nltk.download('wordnet') 
 
 ## Files Included  
-chatbot_nlp.py – Main Python script that runs the chatbot.  
+chatbot_nlp.py – Main Python script that runs the chatbot.
+
 nltk_download.py – Optional helper to download required NLTK packages.
 
 Working_chatbot - A screenshot of output.
+
 README.md – Project documentation 
 
 ## How to Run  
@@ -48,4 +50,5 @@ Screenshot or video of chatbot interaction is attached in the submission folder.
 
 ## Submitted 
 Name: Pradnya Pramod Mhatre.
+
 Internship: CODTECH – Task 3  
