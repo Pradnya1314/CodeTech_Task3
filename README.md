@@ -1,6 +1,6 @@
-# Task 3: Chatbot using NLP  
+## AI Chatbot with NLP  
 
-## This is Task 3 of the CODTECH Internship
+
 which involves building a simple rule-based AI chatbot using Python and the Natural Language Toolkit (NLTK) library. 
 The chatbot can understand basic userinput and respond using pattern-based natural language processing. 
 
@@ -51,4 +51,4 @@ Screenshot or video of chatbot interaction is attached in the submission folder.
 ## Submitted 
 Name: Pradnya Pramod Mhatre.
 
-Internship: CODTECH – Task 3  
+Internship: CodeTech_Task 3  
